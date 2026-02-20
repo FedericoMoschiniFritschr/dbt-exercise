@@ -1,2 +1,3 @@
 # dbt-exercise
-practicing
+we gonna practice github
+## vamooo

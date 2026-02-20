@@ -1,0 +1,2 @@
+# dbt-exercise
+practicing
